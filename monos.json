@@ -1,18 +1,18 @@
 [
 	{
 		"name": "Darius",
-		"img": "https://raw.githubusercontent.com/NicoGaona/prueba/main/img/Darius.png"
+		"img": "https://raw.githubusercontent.com/NicoGaona/json/main/img/Darius.png"
 	},
 	{
 		"name": "Garen",
-		"img": "https://raw.githubusercontent.com/NicoGaona/prueba/main/img/Garen.png"
+		"img": "https://raw.githubusercontent.com/NicoGaona/json/main/img/Garen.png"
 	},
 	{
 		"name": "Zeri",
-		"img": "https://raw.githubusercontent.com/NicoGaona/prueba/main/img/Zeri.png"
+		"img": "https://raw.githubusercontent.com/NicoGaona/json/main/img/Zeri.png"
 	},
 	{
 		"name": "Neeko",
-		"img": "https://raw.githubusercontent.com/NicoGaona/prueba/main/img/Neeko.png"
+		"img": "https://raw.githubusercontent.com/NicoGaona/json/main/img/Neeko.png"
 	}
 ]
